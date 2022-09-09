@@ -22,6 +22,10 @@
 * Battery Bed Black Wire --> Motor Driver GND
 * Arduino UNO GND --> Motor Driver GND
 * Motor Cables --> Motor Driver OUT1 , OUT2 , OUT3 , OUT4
+* Motor Driver IN1 --> Arduino Uno 9 PIN
+* Motor Driver IN2 --> Arduino Uno 6 PIN
+* Motor Driver IN3 --> Arduino Uno 5 PIN
+* Motor Driver IN4 --> Arduino Uno 10 PIN
 
 ### Project Images
 ![image1](IMG20220909151453.jpg)
